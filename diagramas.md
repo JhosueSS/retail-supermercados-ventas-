@@ -1,3 +1,3 @@
 # Diagramas Entidad/Relacion
-<img width="960" height="720" alt="Dibujo sin título" src="https://github.com/user-attachments/assets/29d3195f-8702-4191-8aed-8d7fb2f76edf" />
+<img width="835" height="720" alt="Dibujo sin título (1)" src="https://github.com/user-attachments/assets/664f8418-f0be-40eb-8157-3dcecf3282c8" />
 # Diseño logico
