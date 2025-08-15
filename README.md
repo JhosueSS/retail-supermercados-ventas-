@@ -1,4 +1,4 @@
-# retail-supermercados-ventas-
+# retail_supermercados_ventas
 
 1. Contexto del Negocio
 Eres el analista de datos de "SuperMarket Plus", una cadena de supermercados con 10 tiendas en diferentes zonas de una ciudad. La gerencia necesita tomar decisiones basadas en datos para:
