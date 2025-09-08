@@ -1,0 +1,16 @@
+# Retail Supermercados Ventas
+
+Este proyecto contiene el modelo **transaccional (OLTP)** y el modelo **dimensional (OLAP)** de un supermercado.  
+Incluye scripts de creación de base de datos, inserción de datos de prueba y proceso ETL para mover la información desde OLTP hacia OLAP.
+
+## Contenido
+- `bd_retail_supermercados_ventas.sql`: base transaccional.
+- `dw_retail_supermercados_ventas.sql`: modelo dimensional.
+- `etl_retail_supermercados.sql`: script ETL (Extract-Transform-Load).
+- `consultas_demo.sql`: consultas de ejemplo para análisis OLAP.
+
+## Uso
+1. Crear las bases de datos en SQL Server ejecutando los scripts.
+2. Poblar las tablas con datos de prueba.
+3. Ejecutar `etl_retail_supermercados.sql` para cargar el Data Warehouse.
+4. Probar con las consultas de ejemplo.
